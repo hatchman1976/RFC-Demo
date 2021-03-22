@@ -1,9 +1,0 @@
-# LI RFC Rules Template
-
-Use this template for defining RFC's 
-
-# RFC - TypeScript Language
-
-The purpose of this RFC is to move significant parts of LinkedIn's code base from Java to TypeScript to take advantage of more modern built-for-cloud programming languages
-
-
