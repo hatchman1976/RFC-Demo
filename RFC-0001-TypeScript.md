@@ -15,7 +15,7 @@ TypeScript can run as a front-end web language as popular JavaScript frameworks 
 
 ## What languages does this deprecate
 
-The main scripting language used by SRE's is Python. While effective, Python is not as performant as TypeScript as it is not asynchronous at it's core. and therefore can become unreliable when needing to perform large and complex data processing tasks at the same time, across multiple machines
+The main scripting language used by SRE's is Python. While effective, Python is not as performant as TypeScript as it is not asynchronous at it's core. and therefore can become unreliable when needing to perform large and complex data processing tasks at the same time, across multiple machines.
 
 Python suffers from version compatibility, most notable the 2.7 to 3.0 upgrade which changed significant features of the langauge and broke a lot of exsiting scripts. As TypeScript transpiles to JavaScript it does not suffer the same drawbacks making it more portable across different JavaScript engines 
 
